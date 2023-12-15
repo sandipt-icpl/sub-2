@@ -1,0 +1,120 @@
+{
+    "data":[
+        {
+            "email": "tony@stark.com",
+            "acc_info": {
+                "fullname": "Tony Stark",
+                "coname": "Infopercept",
+                "jtitle": "Developer",
+                "phone": "9751278923",
+                "altemail": "stark@tony.com",
+                "altjtitle": "Software Developer",
+                "terms": "true"
+            },
+            "solutions": {
+                "xdr": "true",
+                "xdrplus": "false",
+                "oxdr": "true",
+                "gsos": "false"
+            },
+            "services": {
+                "mdr": "true",
+                "omdr": "false",
+                "mdrplus": "false",
+                "vciso": "true"
+            },
+            "cloud": {
+                "aws": "true",
+                "azure": "false",
+                "gcp": "false"
+            }
+        },
+        {
+            "email": "jane@doe.com",
+            "acc_info": {
+                "fullname": "Jane Doe",
+                "coname": "Infosys",
+                "jtitle": "Deployer",
+                "phone": "9859623120",
+                "altemail": "doe@jane.com",
+                "altjtitle": "Software Deployer",
+                "terms": "true"
+            },
+            "solutions": {
+                "xdr": "true",
+                "xdrplus": "true",
+                "oxdr": "true",
+                "gsos": "false"
+            },
+            "services": {
+                "mdr": "true",
+                "omdr": "true",
+                "mdrplus": "true",
+                "vciso": "false"
+            },
+            "cloud": {
+                "aws": "true",
+                "azure": "false",
+                "gcp": "false"
+            }
+        },
+        {
+            "email": "ted@marko.com",
+            "acc_info": {
+                "fullname": "Ted Marko",
+                "coname": "Techie News",
+                "jtitle": "Developer",
+                "phone": "9859623120",
+                "altemail": "marko@ted.com",
+                "altjtitle": "Software Developer",
+                "terms": "true"
+            },
+            "solutions": {
+                "xdr": "true",
+                "xdrplus": "false",
+                "oxdr": "true",
+                "gsos": "true"
+            },
+            "services": {
+                "mdr": "true",
+                "omdr": "true",
+                "mdrplus": "false",
+                "vciso": "false"
+            },
+            "cloud": {
+                "aws": "true",
+                "azure": "false",
+                "gcp": "false"
+            }
+        },
+        {
+            "email": "john@kelly.com",
+            "acc_info": {
+                "fullname": "John Kelly",
+                "coname": "Tcs",
+                "jtitle": "Deployer",
+                "phone": "9859623120",
+                "altemail": "kelly@john.com",
+                "altjtitle": "Software Deployer",
+                "terms": "true"
+            },
+            "solutions": {
+                "xdr": "false",
+                "xdrplus": "true",
+                "oxdr": "true",
+                "gsos": "false"
+            },
+            "services": {
+                "mdr": "false",
+                "omdr": "true",
+                "mdrplus": "false",
+                "vciso": "false"
+            },
+            "cloud": {
+                "aws": "true",
+                "azure": "false",
+                "gcp": "false"
+            }
+        }
+    ]
+}
